@@ -1,0 +1,21 @@
+div.principal{
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    max-height: 650px;
+    overflow: auto;
+    color: rgb(31 41 55 / 1);
+    border-radius: 0.375rem;
+    background-color: white;
+    border-radius: 0.375rem;
+    /* scrollbar-width: thin; */
+}
+.principal::-webkit-scrollbar{
+    width: 6px;
+    background-color: white;
+    border-radius: 0.375rem;
+}
+.principal::-webkit-scrollbar-thumb{
+    background-color: hsl(0, 0%, 50%, 0.30);
+    border-radius: 0.5rem;
+}

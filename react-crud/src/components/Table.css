@@ -1,0 +1,19 @@
+.purple0{
+    background-color: #e9d5ff;
+}
+.purple1{
+    background-color: #f3e8ff;
+}
+button{
+    background-color: transparent;
+}
+.hover-button:hover{
+    background-color: rgb(250 245 255 / 1);
+}
+.table-head{
+    color: rgb(243 244 246 / 1);
+    background-image: linear-gradient(to right, rgb(161, 87, 211), rgb(111, 25, 182));
+}
+.edit-button{
+    color: green;
+}

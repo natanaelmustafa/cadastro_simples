@@ -1,0 +1,13 @@
+button.button{
+    background-image: linear-gradient(to right, rgb(165, 159, 159), rgb(95, 91, 91));
+    color: white;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border: 0;
+    border-radius: 0.375rem;
+}
+button.green{
+    background-image: linear-gradient(to right, rgb(85, 223, 85), rgb(6, 138, 6));
+}
+button.blue{
+    background-image: linear-gradient(to right, rgb(93, 146, 245), rgb(9, 72, 190));
+}
