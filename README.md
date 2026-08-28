@@ -32,13 +32,6 @@ Aplicação web simples que demonstra um formulário de cadastro com validação
 
    npm start
 
-## Como contribuir
-
-Contribuições são bem-vindas: abra uma issue para discutir mudanças ou envie um pull request com melhorias.
-
 ## Contato
 
 Autor: natanaelmustafa
-
-
-<!-- Não inclui seção de licença conforme solicitado -->
